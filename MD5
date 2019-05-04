@@ -1,0 +1,16 @@
+62a5c856c110754f83397e38ef736781 *DESCRIPTION
+3d7816357eeb82a273d0082e28735754 *LICENSE
+2c145cc0fde50009e44c96c8de7923dd *NAMESPACE
+aa56257ea80692af5ae529fc26899883 *R/collidr.R
+2f63065b0b11d6e437ac9e88e79f88f3 *R/collisions.R
+17376a8b76a3e5c998f9c82b9642553c *R/packages_and_functions_dataframe-data.R
+34baf308c16bd022193a15ceefc4a190 *data/datalist
+087d49a716513e565245ea84aa087c2c *data/packages_and_functions_dataframe.RData
+1a52145cb25af59d993d871243c4e043 *man/CRAN_collisions.Rd
+462974768809252126ce6ca8f83041f3 *man/CRAN_function_collisions.Rd
+4db292e66a9f7f5ef73865c0659ecc07 *man/CRAN_functions.Rd
+e1849446b681c30e5d8133bb81908b87 *man/CRAN_package_collisions.Rd
+9d3f4e2173397f50503cfff003280d74 *man/CRAN_packages.Rd
+d0566278281821706d412b18cc6ae446 *man/CRAN_packages_and_functions.Rd
+b99435905b4ad17d7bee72545eacfa13 *man/collidr-package.Rd
+d4f0690ae07e4aa10cb24d0f5e908a85 *man/packages_and_functions_dataframe.Rd
