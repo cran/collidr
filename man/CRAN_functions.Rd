@@ -2,16 +2,22 @@
 % Please edit documentation in R/collisions.R
 \name{CRAN_functions}
 \alias{CRAN_functions}
+\alias{CRANf}
 \title{Show the functions that are on CRAN}
 \usage{
-CRAN_functions()
+CRAN_functions(CRANdf)
+
+CRANf(CRANdf)
+}
+\arguments{
+\item{CRANdf}{Optionally provide an updated CRAN data.frame (obtain with getCRAN())}
 }
 \description{
-Retrieve functions from CRAN.
+Show functions from CRAN.
 }
 \examples{
 
-# Retrieve CRAN functions
+# Show CRAN functions
 CRAN_functions()
 
 
