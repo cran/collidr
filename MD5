@@ -1,10 +1,10 @@
-221351ffacf0acfd2fc9e2791aee69c3 *DESCRIPTION
+4d9bcdd28f46391ddcf0a7165ae7abd9 *DESCRIPTION
 3d7816357eeb82a273d0082e28735754 *LICENSE
-1467928e2f088ffd50ece6619509dcbc *NAMESPACE
+1e8c7c530aad97c685e3f98f72c2b765 *NAMESPACE
 5e0d7684520802f0d7ff668e42a00304 *R/CRANdf-data.R
 aa56257ea80692af5ae529fc26899883 *R/collidr.R
-03341088e2b46e77fc3483855c83a619 *R/collisions.R
-d1d142c9cf6387d2f6d392ed1c9222cc *data/CRANdf.RData
+97467225ba96487b4d01cd174010107a *R/collisions.R
+b040d68cb14a9d32edc097097d584d9b *data/CRANdf.RData
 f658e44c7eeecd1f400361f570c1a9c1 *data/datalist
 36649e1ebf9759a188c4a9be8f0ca8f7 *man/CRAN_collisions.Rd
 1a6a7d7ddd5208dac098d60177df352d *man/CRAN_function_collisions.Rd
@@ -14,4 +14,4 @@ a9ccbbe9fb03d6d93a5c05d90f6828e3 *man/CRAN_functions.Rd
 76d3f7d449d530ce89f2a72ac316eb0b *man/CRAN_packages_and_functions.Rd
 cc9bd329e4b3bd341b9d547600354e6d *man/CRANdf.Rd
 b99435905b4ad17d7bee72545eacfa13 *man/collidr-package.Rd
-8356c300422e5084f5d32424e7bdab99 *man/getCRAN.Rd
+3c7ba22cdee234f80b08c903d0a77530 *man/getCRAN.Rd
